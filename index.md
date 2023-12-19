@@ -1,4 +1,4 @@
 ---
-Desdription: Welcome to my blog
+Description: Welcome to my blog
 ---
 
